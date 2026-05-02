@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://sophprismata.github.io"
+base_url = "https://prismata.press"
 
 title = "Prismata Press"
 author = "Prismata Press"
