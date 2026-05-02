@@ -43,7 +43,8 @@ navigation = [
 ]
 
 social_icons = [
-    { url = "https://bsky.app/profile/transistance.press", name = "Bluesky" },
+    { url = "https://bsky.app/profile/prismata.press", name = "Bluesky" },
+    { url = "https://rss.com/podcasts/galaxy-moth", name = "Podcast" },
     { url = "https://www.instagram.com/transistance.press", name = "Instagram"},
     { url = "$BASE_URL/atom.xml", name = "RSS" },
 ]
