@@ -3,7 +3,7 @@ base_url = "https://prismata.press"
 
 title = "Prismata Press"
 author = "Prismata Press"
-description = "A small website"
+description = "A trans-owned and operated micro press"
 
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -32,6 +32,7 @@ taxonomies = [
 logo_image = "images/Prismata_Press_Logo.png"
 
 author_image = '/images/SophMoth_Bookems.png'
+social_media_share_image = "/images/SophMoth_Bookems.png"
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
