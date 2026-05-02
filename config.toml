@@ -1,0 +1,57 @@
+# The URL the site will be built for
+base_url = "https://prismata.press"
+
+title = "Prismata Press"
+author = "Prismata Press"
+description = ""
+
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+generate_feeds = true
+feed_filenames = [ "atom.xml",]
+minify_html = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "vonge"
+taxonomies = [
+    { name = "themes", feed = true},
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+# highlight_code = false
+
+[extra]
+# Put all your custom variables here
+
+logo_image = "images/chain.png"
+
+author_image = '/images/chain.png'
+
+navigation = [
+    { url = "$BASE_URL", title = "Home" },
+    { url = "$BASE_URL/books", title = "Books" },
+    { url = "$BASE_URL/manifesto", title = "Manifesto" },
+    { url = "$BASE_URL/posts", title = "Posts" },
+    { url = "$BASE_URL/links", title = "Links" },
+    { url = "$BASE_URL/content_warnings", title = "Content Warnings" },
+]
+
+social_icons = [
+    { url = "https://bsky.app/profile/transistance.press", name = "Bluesky" },
+    { url = "https://www.instagram.com/transistance.press", name = "Instagram"},
+    { url = "$BASE_URL/atom.xml", name = "RSS" },
+]
+
+[[extra.content_blocks]]
+block = "hero"
+title = "Prismata Press"
+description_html = "Prismata Press is a trans owned and operated micro press based in Australia with a passion for telling trans stories. We have a strong background in the trans indie fiction scene, with connections across the globe. Our aim is to diversify the infrastructure available to trans authors, so that our stories can keep being told."
+image = "/images/Trans_chains.png"
+image_alt = "Prismata Press Icon"
+

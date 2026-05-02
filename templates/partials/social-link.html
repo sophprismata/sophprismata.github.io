@@ -1,0 +1,8 @@
+{% if config.extra.social_icons %}
+<div class="social">
+    {% for social_icon in config.extra.social_icons %}
+    {% if loop.index != 1 %}|{% endif %}
+      <a href="{{ social_icon.url | replace(from='$BASE_URL', to=config.base_url) }}" target="_blank" rel="noopener">{{ social_icon.name }} </a>
+    {% endfor %}
+</div>
+{% endif %}

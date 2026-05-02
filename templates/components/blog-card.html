@@ -1,0 +1,42 @@
+{% macro blog_card(data) %}
+{% set c = 'c-blog-card' %}
+<div class="{{c}} col col-4 col-d-6 col-t-12">
+  <div class="{{c}}__inner">
+
+    {% if data.extra.image %}
+    <div class="{{c}}__image-wrap">
+      <a class="{{c}}__image" href="{{ data.permalink }}">
+        <img loading="lazy" src="{{ get_url(path=data.extra.image) }}" alt="{{ data.title }}">
+      </a>
+    </div>
+    {% endif %}
+
+    <div class="{{c}}__content">
+
+      {% if data.taxonomies.themes %}
+      <div class="{{c}}__tags-box">
+        {% for tag in data.taxonomies.themes %}
+        {% set tag_url = get_taxonomy_url(kind="themes", name=tag, lang=data.lang) %}
+        <a href="{{ tag_url }}" class="{{c}}__tag">{{ tag }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      <h2 class="{{c}}__title">
+        <a href="{{ data.permalink }}">{{ data.title }}</a>
+      </h2>
+
+      {% if data.description or data.summary %}
+      <p class="{{c}}__excerpt">
+        {% if data.description %}
+        {{ data.description }}
+        {% else %}
+        {{ data.summary | truncate(length=120) | safe }}
+        {% endif %}
+      </p>
+      {% endif %}
+
+    </div>
+  </div>
+</div>
+{% endmacro blog_card %}
