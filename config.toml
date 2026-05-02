@@ -3,7 +3,7 @@ base_url = "https://prismata.press"
 
 title = "Prismata Press"
 author = "Prismata Press"
-description = ""
+description = "A small website"
 
 
 # Whether to automatically compile all Sass files in the sass directory
