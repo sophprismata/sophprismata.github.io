@@ -36,7 +36,6 @@ author_image = '/images/SophMoth_Bookems.png'
 navigation = [
     { url = "$BASE_URL", title = "Home" },
     { url = "$BASE_URL/books", title = "Books" },
-    { url = "$BASE_URL/manifesto", title = "Manifesto" },
     { url = "$BASE_URL/posts", title = "Posts" },
     { url = "$BASE_URL/links", title = "Links" },
     { url = "$BASE_URL/content_warnings", title = "Content Warnings" },

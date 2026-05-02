@@ -3,8 +3,8 @@ date = "2025-10-05"
 title = "Links"
 description = "Important links"
 [extra]
-image = '/images/Trans_chains.png'
-cover = '/images/Trans_chains.png'
+image = '/images/SophMoth_Bookems.png'
+cover = '/images/SophMoth_Bookems.png'
 +++
 
 Machines of Consent:
