@@ -29,7 +29,7 @@ taxonomies = [
 [extra]
 # Put all your custom variables here
 
-logo_image = "images/Prismata_Press_Logo.png"
+logo_image = "images/Prismata_Press_Logo2.png"
 
 author_image = '/images/SophMoth_Bookems.png'
 social_media_share_image = "/images/SophMoth_Bookems.png"
@@ -54,5 +54,5 @@ block = "hero"
 title = "Prismata Press"
 description_html = "Nestled among the volcanoes of New Zealand, Prismata Press is a fiery trans-owned and operated micro-press with a passion for sharing trans voices. We publish fiction and poetry in e-book, print, and audio formats."
 image = "/images/SophMoth_Bookems.png"
-image_alt = "Prismata Press Icon"
+image_alt = "Prismata Press Founders"
 
