@@ -52,7 +52,7 @@ social_icons = [
 [[extra.content_blocks]]
 block = "hero"
 title = "Prismata Press"
-description_html = "Nestled among the volcanoes of New Zealand, Prismata Press is a fiery trans-owned and operated micro-press with a passion for sharing trans voices. We publish fiction and poetry in e-book, print, and audio formats. With a strong background in the trans indie fiction scene, we are always ready to lift up queer voices."
+description_html = "Nestled among the volcanoes of New Zealand, Prismata Press is a fiery trans-owned and operated micro-press with a passion for sharing trans voices. We publish fiction and poetry in e-book, print, and audio formats."
 image = "/images/SophMoth_Bookems.png"
 image_alt = "Prismata Press Icon"
 
