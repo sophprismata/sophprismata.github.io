@@ -19,4 +19,4 @@ From The Inside:
 [itch.io](https://transistance.itch.io/from-the-inside), [Amazon](https://www.amazon.com/dp/B0DSV9K4R7)
 
 Soph:
-[Follow on Soph on Goodreads!](https://www.goodreads.com/author/show/54157179.Sophia_Turner)
+[Follow Soph on Goodreads!](https://www.goodreads.com/author/show/54157179.Sophia_Turner) [Follow Soph on Bluesky!](https://bsky.app/profile/sophiajt.com)
