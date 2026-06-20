@@ -21,12 +21,10 @@ Pursued by both captors and followers alike, Mara unwaveringly chases her own pu
 
 Publishing in August 2026 by Prismata Press – Tāmaki Makaurau, Aotearoa.
 
-```
-Written by: Sophia Turner
-Edited by: Ember Moth Haeger, Jamie Garner, Autumn Wolff
-Cover art by: Aimee Cozza
-Cover design by: Ember Moth Haeger
+**Written by:** Sophia Turner
+**Edited by:** Ember Moth Haeger, Jamie Garner, Autumn Wolff
+**Cover art by:** Aimee Cozza
+**Cover design by:** Ember Moth Haeger
 
-Ebook ISBN: 978-1-0672837-1-1
-Paperback ISBN: 978-1-0672837-0-4
-```
+**Ebook ISBN:** 978-1-0672837-1-1
+**Paperback ISBN:** 978-1-0672837-0-4
