@@ -11,7 +11,7 @@ cover = '/images/Mara_cover.png'
 
 ​Mara is available to purchase on [itch.io](https://prismata-press.itch.io/mara) or [other storefronts](/links).
 
-> “Cinemtatic. Wild ride. Left me ravenous for more.” – Tris Husband
+> “Cinematic. Wild ride. Left me ravenous for more.” – Tris Husband
 
 A trio of political factions stretches across the universe, claiming to keep all in their grasp safe. To cement their role as protector and spiritual guide, they have at last created their crowning achievement, a breakthrough of faith and technology: the android, Mara.
 
