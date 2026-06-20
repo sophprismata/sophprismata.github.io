@@ -8,7 +8,7 @@ cover = '/images/SophMoth_Bookems.png'
 +++
 
 Mara:
-[itch.io](https://prismata-press.itch.io/mara), [Amazon](https://www.amazon.com/dp/B0H62FSYL8),
+[itch.io](https://prismata-press.itch.io/mara), [Amazon](https://www.amazon.com/dp/B0H62FSYL8)
 
 Machines of Consent:
 [itch.io](https://transistance.itch.io/machines-of-consent),
