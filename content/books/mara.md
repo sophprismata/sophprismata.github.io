@@ -11,7 +11,7 @@ cover = '/images/Mara_cover.png'
 
 ​Mara is available to purchase on [itch.io](https://prismata-press.itch.io/mara) or [other storefronts](/links).
 
-> “A gem of a book with a killer hook & just enough line to set it & reel in its prey (you, the reader)… I predict this is going to be in contention for a lot of folks’ end-of-year lists. I know it’ll be on mine.” – Dani Finn
+> “Cinemtatic. Wild ride. Left me ravenous for more.” – Tris Husband
 
 A trio of political factions stretches across the universe, claiming to keep all in their grasp safe. To cement their role as protector and spiritual guide, they have at last created their crowning achievement, a breakthrough of faith and technology: the android, Mara.
 
